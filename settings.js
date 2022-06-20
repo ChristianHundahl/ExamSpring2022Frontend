@@ -1,0 +1,1 @@
+export const URL="https://examspring2022appservice.azurewebsites.net/api"
